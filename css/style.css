@@ -1282,16 +1282,27 @@ footer .icon-social .facebook {
 	background: #3b5998;
 }
 
-footer .icon-social .twitter {
-	background: #00aced;
+footer .icon-social .whatsapp {
+	background: #25D366;
 }
 
-footer .icon-social .google {
-	background: #dd4b39;
+footer .icon-social .pinterest {
+	background: #E60023;
 }
 
+footer .icon-social .youtube {
+	background: #FF0000;
+}
 footer .icon-social .instagram {
-	background: #517fa6;
+	background: radial-gradient(circle at 30% 107%, 
+  #fdf497 0%, #fdf497 5%, 
+  #fd5949 45%, #d6249f 60%, #285AEB 90%);
+
+}
+
+footer .icon-social .tiktok {
+	background: #323233;
+	 text-shadow: 0 0 4px #69C9D0, 0 0 8px #EE1D52;
 }
 
 footer .icon-social .rss {
